@@ -15,8 +15,6 @@
 # Author : Matt Hawkins
 # Date   : 25/07/2016
 #
-# http://www.raspberrypi-spy.co.uk/
-#
 #--------------------------------------
 import smbus
 import time
