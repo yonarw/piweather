@@ -2,7 +2,6 @@ import json
 import sensor_read
 import threading
 import time
-#import bme280
 
 from flask import Flask, request
 
