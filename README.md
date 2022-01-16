@@ -17,6 +17,7 @@ python3 service.py &
 
 ```
 
+## Readout in Home Assistant - rest sensor
 To readout the sensors in Home Assistant add this to the `sensor` section in your `configuration.yaml`
 ```yaml
 sensor:
